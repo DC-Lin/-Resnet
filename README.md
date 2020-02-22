@@ -4,4 +4,4 @@
 ![image1](https://github.com/DC-Lin/Pokemon_Resnet/blob/master/newplot%20(1).png)
 
 验证集中的变换（每2个epoch一次记录）
-![image2]()
+![image2](https://github.com/DC-Lin/Pokemon_Resnet/blob/master/newplot.png)
